@@ -1,0 +1,17 @@
+.subtotal {
+  padding: 15px 15px;
+  background-color: #f2f2f2;
+  padding-bottom: 20px;
+}
+
+.subtotal span {
+  margin: 10px;
+}
+
+.subtotal button {
+  width: 100%;
+  margin-top: 10px;
+  background-color: #f0ca4b;
+  border: 1px solid;
+  border-color: #a88734 #9c7e31 #846a29;
+}
